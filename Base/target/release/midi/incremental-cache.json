@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "midi": {
+      "rootPackageName": "midi",
+      "fileNameHash": "-7032374209168495181",
+      "timeStamp": 1774959598,
+      "isBuilt": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "-6438523155193176330",
+  "rootPackageName": "midi"
+}
